@@ -12,7 +12,6 @@ A simple and clean landing page for showcasing products or services.
 ## Tech Stack
 - HTML
 - CSS
-- JavaScript
 
 ## How to Use
 1. Download or clone the repo
